@@ -3,5 +3,6 @@ int main()
 {
 	int abcdef;
 	int asdf;
-	printf("Hello world\n");
+	int tetbr;	
+printf("Hello world\n");
 }
